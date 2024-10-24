@@ -1,1 +1,35 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.card-size {
+  height: 359px;
+  width: 234px;
+}
+
+.panel-width {
+  width: 234px;
+}
+
+.panel-input-width {
+  width: 360px;
+}
+
+.panel-input-width h6 {
+  background-color: rgb(255, 100, 100);
+  display: none;
+}
+
+.icon-size {
+  font-size: 70px;
+}
+
+.number-size {
+  font-size: 120px;
+}
+
+.red {
+  color: red;
+}
+
+/* * {
+  border: solid 1px blue;
+} */
